@@ -1,0 +1,6 @@
+{
+    "port": "COM3",
+    "board": "arduino:avr:micro",
+    "sketch": "DoorLock.ino",
+    "programmer": "Arduino as ISP"
+}
