@@ -2,6 +2,7 @@
 #include <EEPROM.h>
 #include <TM1638plus_font.h>
 
+// checkout feature
 // GPIO I/O pins on the Arduino connected to strobe, clock, data,
 //pick on any I/O you want.
 #define STROBE_TM 5
